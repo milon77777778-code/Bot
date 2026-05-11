@@ -1,0 +1,11 @@
+psutil
+requests
+PyJWT
+urllib3
+aiohttp
+flask
+pycryptodome
+protobuf
+google-play-scraper
+pytz
+pyfiglet
