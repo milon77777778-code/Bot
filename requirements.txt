@@ -1,0 +1,10 @@
+PyJWT>=2.8.0
+requests>=2.31.0
+psutil>=5.9.0
+protobuf>=4.21.0
+protobuf_decoder>=0.1.0
+cfonts>=1.1.0
+rich>=13.0.0
+urllib3>=2.0.0
+asyncio>=3.4.3
+pycryptodome
